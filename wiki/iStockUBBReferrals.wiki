@@ -19,3 +19,7 @@ Convert your [http://www.istockphoto.com/my-account/referral-program/generate-re
  * For banners:
 
    Generate and Save the banner. Then go to your banner list, click on it and convert to UBB.
+
+= Download =
+
+Get the script [http://code.google.com/p/istock-greasemonkey-tools/downloads/detail?name=istock_ubb_referrals.user.js HERE]
