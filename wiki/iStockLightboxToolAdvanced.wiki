@@ -1,0 +1,17 @@
+#summary iStock Lightbox Tool (Advanced for Firefox/Chrome)
+#labels Featured
+
+= Summary =
+
+Easy add/remove of files to lightboxes
+
+= Features =
+
+Additional functionality compared to the [http://code.google.com/p/istock-greasemonkey-tools/wiki/iStockLightboxTool regular tool]
+
+  * The script will remember last selected lightbox
+  * Additional menu to show/hide the interface
+
+= Notes =
+
+Additional functionality available on Firefox and Chrome only. For other browsers please use the [http://code.google.com/p/istock-greasemonkey-tools/wiki/iStockLightboxTool regular tool].
