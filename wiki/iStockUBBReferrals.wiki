@@ -1,12 +1,7 @@
 #summary iStock UBB Referrals
 #labels Featured
 
-= Introduction =
-
-Add your content here.
-
-
-= Details =
+= Summary =
 
 Convert your [http://www.istockphoto.com/my-account/referral-program/generate-referral-links links] and [http://www.istockphoto.com/my-account/referral-program/banners banner] referrals to UBB code with [http://code.google.com/p/istock-greasemonkey-tools/downloads/detail?name=istock_ubb_referrals.user.js iStock UBB referrals GM script]
 
