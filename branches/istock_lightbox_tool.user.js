@@ -128,7 +128,6 @@ function mainProgram(searchPage) {
 		element.style.height = "50px";
 		element.style.zIndex = "2";
 		element.style.display = "inline";
-		element.style.top = window.pageYOffset +"px"; // For Mozilla etc.
 		body[0].insertBefore(element, header);
 		div = element;
 		div.style.display = GM_getValue("lightboxToolActive")?"":"none";
