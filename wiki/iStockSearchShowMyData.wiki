@@ -1,0 +1,17 @@
+#summary iStock Search Show My Data (Royalties and Downloads)
+#labels Featured
+
+= Introduction =
+
+Shows additional data for file downloads and royalties in  search pages.
+
+
+= Details =
+
+Upon visiting a lightbox search page, a button will show. Clicking it will display downloads and royalties for each result you own on that page with a final tally at the top.
+
+Additionally per month graph data will be shown for current search page results.
+
+= Download =
+
+Click [http://code.google.com/p/istock-greasemonkey-tools/downloads/detail?name=IS_search_showMyData.user.js HERE] to get the script.
