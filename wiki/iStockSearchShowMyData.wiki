@@ -1,7 +1,7 @@
 #summary iStock Search Show My Data (Royalties and Downloads)
 #labels Featured
 
-= Introduction =
+= Summary =
 
 Shows additional data for file downloads and royalties in  search pages.
 
