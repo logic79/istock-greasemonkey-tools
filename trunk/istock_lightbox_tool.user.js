@@ -211,7 +211,7 @@ function onLightboxesLoaded(text, status, elementToChange) {
 	if(result.status == 1) {
 		lightbox = result.lightboxes;
 	} else {
-		alert("Can't get lightboxes. Are you logged in?");
+		// Can't get lightboxes. Are you logged in?
 		return;
 	}
 
