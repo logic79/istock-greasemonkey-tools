@@ -241,7 +241,7 @@ function onLightboxesLoaded(text, status, elementToChange) {
 				lbOption.selected = true;
 			}
 		}
-		lbSelector.options[i] = lbOption;
+		lbSelector.appendChild(lbOption);
 	}
 }
 
